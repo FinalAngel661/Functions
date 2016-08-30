@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\kelsey.davis\documents\visual studio 2015\projects\functions\function excercise 17\main.cpp(45): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\kelsey.davis\documents\visual studio 2015\projects\functions\function excercise 17\main.cpp(53): warning C4552: '+': operator has no effect; expected operator with side-effect
+  Function Excercise 17.vcxproj -> C:\Users\kelsey.davis\Documents\Visual Studio 2015\Projects\Functions\Debug\Function Excercise 17.exe
+  Function Excercise 17.vcxproj -> C:\Users\kelsey.davis\Documents\Visual Studio 2015\Projects\Functions\Debug\Function Excercise 17.pdb (Partial PDB)

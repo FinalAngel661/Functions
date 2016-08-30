@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\kelsey.davis\documents\visual studio 2015\projects\functions\function excercise 2\main.cpp(12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\kelsey.davis\documents\visual studio 2015\projects\functions\function excercise 2\main.cpp(17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\kelsey.davis\documents\visual studio 2015\projects\functions\function excercise 2\main.cpp(25): warning C4715: 'LesserorGreater': not all control paths return a value
+  Function Excercise 2.vcxproj -> C:\Users\kelsey.davis\Documents\Visual Studio 2015\Projects\Functions\Debug\Function Excercise 2.exe
+  Function Excercise 2.vcxproj -> C:\Users\kelsey.davis\Documents\Visual Studio 2015\Projects\Functions\Debug\Function Excercise 2.pdb (Partial PDB)
